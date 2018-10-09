@@ -1,4 +1,4 @@
-# Peek - closed source packet extractor.
+# Peek - Closed source packet extractor.
 
 This is fork of @MStr3am project [PEEK](https://github.com/MStr3am/PEEK)
 
